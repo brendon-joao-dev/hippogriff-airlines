@@ -50,7 +50,7 @@ Este projeto foi desenvolvido para praticar conceitos de Python orientado a obje
 
 ```bash
 # clone o repositório
-git clone https://github.com/brendon-joao-dev/hippogriff_airlines.git
+git clone https://github.com/brendon-joao-dev/hippogriff-airlines.git
 
 # entre na pasta do projeto
 cd hippogriff_airlines
