@@ -1,4 +1,4 @@
-# 🚀 [Nome do Projeto]
+# 🚀 Hippogriff Airlines
 
 > Sistema de gerenciamento de aeroporto, desenvolvido pra aprendizado e é o primeiro sistema completo que eu desenvolvi 🤩
 
